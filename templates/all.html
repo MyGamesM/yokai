@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		* { color: #ddd; }
+		body { background-color: #444; }
+
+		.main {
+			display: grid;
+			grid-template-columns: repeat(2, 1fr);
+		}
+
+		.item {
+			height: 44px;
+		}
+		
+		td {
+			width: 250px;
+		}
+	</style>
+</head>
+<body>
+	<div class="main">
+		{% for i in range(1, r) %}
+			<table>
+				<tbody>
+					<td>{{ data[i | string()]['name'] }}</td>
+					<td>{{ data[i | string()]['food'] }}</td>
+					<td><img class="item" src="{{ data[i | string()]['links']['icon'] }}"></td>
+					<td><img class="item" src="{{ data[i | string()]['links']['rank'] }}"></td>
+					<td><img class="item" src="{{ data[i | string()]['links']['tribe'] }}"></td>
+					<td><img class="item" src="{{ data[i | string()]['links']['attribute'] }}"></td>
+				</tbody>
+			</table>
+		{% endfor %}
+	</div>	
+</body>
+</html>

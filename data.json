@@ -1,0 +1,2901 @@
+{
+	"1": {
+		"name": "Pandle",
+		"food": "Rice Balls",
+		"rank": "E",
+		"tribe": "Brave",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c5/Pandicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"2": {
+		"name": "Undy",
+		"food": "Rice Balls",
+		"rank": "C",
+		"tribe": "Brave",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fd/Undicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"3": {
+		"name": "Tanbo",
+		"food": "Rice Balls",
+		"rank": "B",
+		"tribe": "Brave",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5d/Tanbicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"4": {
+		"name": "Cutta-nah",
+		"food": "Juice",
+		"rank": "E",
+		"tribe": "Brave",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Cuttaicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"5": {
+		"name": "Cutta-nah-nah",
+		"food": "Juice",
+		"rank": "C",
+		"tribe": "Brave",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c2/Cuttanahicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"6": {
+		"name": "Slacka-slash",
+		"food": "Juice",
+		"rank": "B",
+		"tribe": "Brave",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/7/7c/Slackaicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	},
+	"7": {
+		"name": "Mochismo",
+		"food": "Rice Balls",
+		"rank": "D",
+		"tribe": "Brave",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/2/22/Mochicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"8": {
+		"name": "Minochi",
+		"food": "Rice Balls",
+		"rank": "D",
+		"tribe": "Brave",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ac/Minoicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"9": {
+		"name": "Helmsman",
+		"food": "Vegetables",
+		"rank": "D",
+		"tribe": "Brave",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/3/36/Helmsicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"10": {
+		"name": "Reuknight",
+		"food": "Vegetables",
+		"rank": "A",
+		"tribe": "Brave",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ca/Reuknicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"11": {
+		"name": "Corptain",
+		"food": "Vegetables",
+		"rank": "S",
+		"tribe": "Brave",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a2/Corptaicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"12": {
+		"name": "Blazion",
+		"food": "Meat",
+		"rank": "C",
+		"tribe": "Brave",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/5/52/Blazicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"13": {
+		"name": "Quaken",
+		"food": "Meat",
+		"rank": "B",
+		"tribe": "Brave",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/7/73/Quakicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"14": {
+		"name": "Siro",
+		"food": "Meat",
+		"rank": "A",
+		"tribe": "Brave",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ae/Siroicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"15": {
+		"name": "Chansin",
+		"food": "Seafood",
+		"rank": "C",
+		"tribe": "Brave",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/7/73/Chansicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"16": {
+		"name": "Sheen",
+		"food": "Seafood",
+		"rank": "A",
+		"tribe": "Brave",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/8/8a/Sheeicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"17": {
+		"name": "Snee",
+		"food": "Seafood",
+		"rank": "A",
+		"tribe": "Brave",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/6/6d/Sneeicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"18": {
+		"name": "Gleam",
+		"food": "Seafood",
+		"rank": "S",
+		"tribe": "Brave",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d6/Gleaicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"19": {
+		"name": "Benkei",
+		"food": "Chinese Food",
+		"rank": "B",
+		"tribe": "Brave",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/8/86/Benkeicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	},
+	"20": {
+		"name": "B3-NK1",
+		"food": "Chinese Food",
+		"rank": "B",
+		"tribe": "Brave",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/2/21/B3icon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"21": {
+		"name": "Sushiyama",
+		"food": "Rice Balls",
+		"rank": "B",
+		"tribe": "Brave",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/0/02/Susyamicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	},
+	"22": {
+		"name": "Kapunki",
+		"food": "Rice Balls",
+		"rank": "A",
+		"tribe": "Brave",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/3/34/Kapunkicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"23": {
+		"name": "Beetler",
+		"food": "Vegetables",
+		"rank": "B",
+		"tribe": "Brave",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d3/Beetlicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"24": {
+		"name": "Beetall",
+		"food": "Vegetables",
+		"rank": "S",
+		"tribe": "Brave",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/7/73/Beeticon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	},
+	"25": {
+		"name": "Cruncha",
+		"food": "Vegetables",
+		"rank": "S",
+		"tribe": "Brave",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c2/Crunchicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"26": {
+		"name": "Zerberker",
+		"food": "Meat",
+		"rank": "S",
+		"tribe": "Brave",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bd/Zerbericon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"27": {
+		"name": "Snartle",
+		"food": "Meat",
+		"rank": "S",
+		"tribe": "Brave",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Snarticon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	},
+	"28": {
+		"name": "Snotsolong",
+		"food": "Seafood",
+		"rank": "E",
+		"tribe": "Mysterious",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/6/6a/Snotsicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"29": {
+		"name": "Duchoo",
+		"food": "Seafood",
+		"rank": "D",
+		"tribe": "Mysterious",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/1/11/Duchicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	},
+	"30": {
+		"name": "Wazzat",
+		"food": "Candy",
+		"rank": "E",
+		"tribe": "Mysterious",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a3/Wazzicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"31": {
+		"name": "Dummkap",
+		"food": "Candy",
+		"rank": "E",
+		"tribe": "Mysterious",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/0/03/Dummicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"32": {
+		"name": "D'wanna",
+		"food": "Hamburgers",
+		"rank": "E",
+		"tribe": "Mysterious",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/3/3a/Dwanicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"33": {
+		"name": "N'more",
+		"food": "Hamburgers",
+		"rank": "C",
+		"tribe": "Mysterious",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Nmoricon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"34": {
+		"name": "Q'wit",
+		"food": "Hamburgers",
+		"rank": "C",
+		"tribe": "Mysterious",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/7/76/Qwiticon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"35": {
+		"name": "Lafalotta",
+		"food": "Hamburgers",
+		"rank": "D",
+		"tribe": "Mysterious",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/0/0e/Lafaicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"36": {
+		"name": "Blips",
+		"food": "Hamburgers",
+		"rank": "C",
+		"tribe": "Mysterious",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/b/ba/Blipicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"37": {
+		"name": "Tattletell",
+		"food": "Ramen",
+		"rank": "D",
+		"tribe": "Mysterious",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/9/9a/Tatttellicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"38": {
+		"name": "Tattlecast",
+		"food": "Ramen",
+		"rank": "B",
+		"tribe": "Mysterious",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ab/Tattcasticon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"39": {
+		"name": "Skranny",
+		"food": "Ramen",
+		"rank": "C",
+		"tribe": "Mysterious",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Skranicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"40": {
+		"name": "Cupistol",
+		"food": "Bread",
+		"rank": "D",
+		"tribe": "Mysterious",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Cupisicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"41": {
+		"name": "Casanuva",
+		"food": "Bread",
+		"rank": "A",
+		"tribe": "Mysterious",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f2/Casnuicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"42": {
+		"name": "Casanono",
+		"food": "Bread",
+		"rank": "A",
+		"tribe": "Mysterious",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/8/80/Casnoicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"43": {
+		"name": "Signibble",
+		"food": "Rice Balls",
+		"rank": "D",
+		"tribe": "Mysterious",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c9/Signibicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"44": {
+		"name": "Signiton",
+		"food": "Rice Balls",
+		"rank": "A",
+		"tribe": "Mysterious",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/3/3b/Signiticon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"45": {
+		"name": "Statiking",
+		"food": "Rice Balls",
+		"rank": "S",
+		"tribe": "Mysterious",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/2/29/Statikinicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"46": {
+		"name": "Mirapo",
+		"food": "Chinese Food",
+		"rank": "C",
+		"tribe": "Mysterious",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/8/8b/Mirapicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"47": {
+		"name": "Mircle",
+		"food": "Chinese Food",
+		"rank": "A",
+		"tribe": "Mysterious",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/9/90/Mirclicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"48": {
+		"name": "Illoo",
+		"food": "Chinese Food",
+		"rank": "C",
+		"tribe": "Mysterious",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/1/12/Illicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"49": {
+		"name": "Elloo",
+		"food": "Chinese Food",
+		"rank": "C",
+		"tribe": "Mysterious",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/7/73/Ellicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	},
+	"50": {
+		"name": "Alloo",
+		"food": "Chinese Food",
+		"rank": "B",
+		"tribe": "Mysterious",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a1/Allicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"51": {
+		"name": "Espy",
+		"food": "Vegetables",
+		"rank": "B",
+		"tribe": "Mysterious",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/4/43/Espicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"52": {
+		"name": "Infour",
+		"food": "Vegetables",
+		"rank": "B",
+		"tribe": "Mysterious",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f2/Infoicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"53": {
+		"name": "Tengu",
+		"food": "Candy",
+		"rank": "S",
+		"tribe": "Mysterious",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1d/Tengicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"54": {
+		"name": "Flengu",
+		"food": "Candy",
+		"rank": "S",
+		"tribe": "Mysterious",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Flengicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"55": {
+		"name": "Kyubi",
+		"food": "Seafood",
+		"rank": "S",
+		"tribe": "Mysterious",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/b/b4/Kyubicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"56": {
+		"name": "Frostail",
+		"food": "Seafood",
+		"rank": "S",
+		"tribe": "Mysterious",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/6/69/Frostaicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	},
+	"57": {
+		"name": "Dulluma",
+		"food": "Bread",
+		"rank": "E",
+		"tribe": "Tough",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fd/Dullicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"58": {
+		"name": "Darumacho",
+		"food": "Bread",
+		"rank": "B",
+		"tribe": "Tough",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/2/29/Daruicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"59": {
+		"name": "Goruma",
+		"food": "Bread",
+		"rank": "B",
+		"tribe": "Tough",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a9/Goruicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"60": {
+		"name": "Noway",
+		"food": "Ramen",
+		"rank": "E",
+		"tribe": "Tough",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/b/b3/Nowaicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"61": {
+		"name": "Impass",
+		"food": "Ramen",
+		"rank": "A",
+		"tribe": "Tough",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/1/16/Impaicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"62": {
+		"name": "Walldin",
+		"food": "Ramen",
+		"rank": "A",
+		"tribe": "Tough",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/a/aa/Walldicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"63": {
+		"name": "Armsman",
+		"food": "Vegetables",
+		"rank": "D",
+		"tribe": "Tough",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a1/Armsicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	},
+	"64": {
+		"name": "Fidgephant",
+		"food": "Rice Balls",
+		"rank": "C",
+		"tribe": "Tough",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/b/b6/Fidgeicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"65": {
+		"name": "Touphant",
+		"food": "Rice Balls",
+		"rank": "C",
+		"tribe": "Tough",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1b/Toupicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"66": {
+		"name": "Blowkade",
+		"food": "Milk",
+		"rank": "D",
+		"tribe": "Tough",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/6/63/Blowkicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"67": {
+		"name": "Ledballoon",
+		"food": "Milk",
+		"rank": "D",
+		"tribe": "Tough",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Ledballicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"68": {
+		"name": "Mad Mountain",
+		"food": "Rice Balls",
+		"rank": "C",
+		"tribe": "Tough",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/8/83/Madmounicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	},
+	"69": {
+		"name": "Lava Lord",
+		"food": "Rice Balls",
+		"rank": "B",
+		"tribe": "Tough",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/1/17/Lavloricon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"70": {
+		"name": "Roughraff",
+		"food": "Ramen",
+		"rank": "E",
+		"tribe": "Tough",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/9/91/Roughricon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"71": {
+		"name": "Badude",
+		"food": "Ramen",
+		"rank": "B",
+		"tribe": "Tough",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/0/0f/Baduicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"72": {
+		"name": "Bruff",
+		"food": "Ramen",
+		"rank": "A",
+		"tribe": "Tough",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d7/Bruficon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"73": {
+		"name": "Rhinoggin",
+		"food": "Vegetables",
+		"rank": "B",
+		"tribe": "Tough",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/0/03/Rhinogicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"74": {
+		"name": "Rhinormous",
+		"food": "Vegetables",
+		"rank": "S",
+		"tribe": "Tough",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4e/Rhinoricon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"75": {
+		"name": "Hornaplenty",
+		"food": "Vegetables",
+		"rank": "S",
+		"tribe": "Tough",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/c/cd/Hornaicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"76": {
+		"name": "Castelius III",
+		"food": "Milk",
+		"rank": "C",
+		"tribe": "Tough",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2f/Castiiiicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"77": {
+		"name": "Castelius II",
+		"food": "Milk",
+		"rank": "B",
+		"tribe": "Tough",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c9/Castiiicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	},
+	"78": {
+		"name": "Castelius I",
+		"food": "Milk",
+		"rank": "A",
+		"tribe": "Tough",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/7/78/Castiicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"79": {
+		"name": "Castelius Max",
+		"food": "Milk",
+		"rank": "S",
+		"tribe": "Tough",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/2/26/Castmaxicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"80": {
+		"name": "Robonyan",
+		"food": "Seafood",
+		"rank": "A",
+		"tribe": "Tough",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/4/42/Robonyicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	},
+	"81": {
+		"name": "Goldenyan",
+		"food": "Seafood",
+		"rank": "S",
+		"tribe": "Tough",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/4/41/Goldenyicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"82": {
+		"name": "Dromp",
+		"food": "Vegetables",
+		"rank": "S",
+		"tribe": "Tough",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/0/0d/Dromicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"83": {
+		"name": "Swosh",
+		"food": "Vegetables",
+		"rank": "S",
+		"tribe": "Tough",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/8/86/Swosicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"84": {
+		"name": "Dazzabel",
+		"food": "Hamburgers",
+		"rank": "E",
+		"tribe": "Charming",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5d/Dazzaicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"85": {
+		"name": "Rattelle",
+		"food": "Hamburgers",
+		"rank": "C",
+		"tribe": "Charming",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f5/Ratteicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"86": {
+		"name": "Skelebella",
+		"food": "Hamburgers",
+		"rank": "B",
+		"tribe": "Charming",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/0/09/Skelebicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"87": {
+		"name": "Cadin",
+		"food": "Juice",
+		"rank": "E",
+		"tribe": "Charming",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/0/02/Cadinicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"88": {
+		"name": "Cadable",
+		"food": "Juice",
+		"rank": "C",
+		"tribe": "Charming",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fb/Cadabicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"89": {
+		"name": "Singcada",
+		"food": "Juice",
+		"rank": "B",
+		"tribe": "Charming",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fd/Singcaicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"90": {
+		"name": "Pupsicle",
+		"food": "Ramen",
+		"rank": "E",
+		"tribe": "Charming",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/0/05/Pupsicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	},
+	"91": {
+		"name": "Chilhuahua",
+		"food": "Ramen",
+		"rank": "S",
+		"tribe": "Charming",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fa/Chilhuicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	},
+	"92": {
+		"name": "Swelterrier",
+		"food": "Ramen",
+		"rank": "S",
+		"tribe": "Charming",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/9/90/Swelteicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"93": {
+		"name": "Jibanyan",
+		"food": "Seafood",
+		"rank": "D",
+		"tribe": "Charming",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/5/52/Jibanicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"94": {
+		"name": "Thornyan",
+		"food": "Seafood",
+		"rank": "B",
+		"tribe": "Charming",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/0/0c/Thornicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"95": {
+		"name": "Baddinyan",
+		"food": "Seafood",
+		"rank": "B",
+		"tribe": "Charming",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/7/79/Baddicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"96": {
+		"name": "Walkappa",
+		"food": "Vegetables",
+		"rank": "D",
+		"tribe": "Charming",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Walkaicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"97": {
+		"name": "Appak",
+		"food": "Vegetables",
+		"rank": "A",
+		"tribe": "Charming",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fd/Appakicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"98": {
+		"name": "Supyo",
+		"food": "Vegetables",
+		"rank": "A",
+		"tribe": "Charming",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/9/97/Supyicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"99": {
+		"name": "Komasan",
+		"food": "Milk",
+		"rank": "D",
+		"tribe": "Charming",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/3/3f/YW1Komsan.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"100": {
+		"name": "Komane",
+		"food": "Milk",
+		"rank": "A",
+		"tribe": "Charming",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/9/9e/YW1Koman.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"101": {
+		"name": "Komajiro",
+		"food": "Milk",
+		"rank": "D",
+		"tribe": "Charming",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bf/Komajicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"102": {
+		"name": "Komiger",
+		"food": "Milk",
+		"rank": "A",
+		"tribe": "Charming",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/5/58/Komiicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"103": {
+		"name": "Baku",
+		"food": "Juice",
+		"rank": "D",
+		"tribe": "Charming",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/6/6a/Bakuicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"104": {
+		"name": "Whapir",
+		"food": "Juice",
+		"rank": "C",
+		"tribe": "Charming",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a8/Whapicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"105": {
+		"name": "Shmoopie",
+		"food": "Hamburgers",
+		"rank": "C",
+		"tribe": "Charming",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/2/23/Shmoicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"106": {
+		"name": "Pinkipoo",
+		"food": "Hamburgers",
+		"rank": "B",
+		"tribe": "Charming",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/a/af/Pinkicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"107": {
+		"name": "Pookivil",
+		"food": "Hamburgers",
+		"rank": "A",
+		"tribe": "Charming",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c6/Pookicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"108": {
+		"name": "Frostina",
+		"food": "Candy",
+		"rank": "B",
+		"tribe": "Charming",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f0/Frosticon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	},
+	"109": {
+		"name": "Blizzaria",
+		"food": "Candy",
+		"rank": "S",
+		"tribe": "Charming",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/2/29/Blizzicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	},
+	"110": {
+		"name": "Damona",
+		"food": "Candy",
+		"rank": "S",
+		"tribe": "Charming",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/e/ea/Damoicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	},
+	"111": {
+		"name": "Wiglin",
+		"food": "Ramen",
+		"rank": "E",
+		"tribe": "Heartful",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/b/ba/Wiglicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"112": {
+		"name": "Steppa",
+		"food": "Ramen",
+		"rank": "E",
+		"tribe": "Heartful",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/6/68/Steppicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"113": {
+		"name": "Rhyth",
+		"food": "Ramen",
+		"rank": "D",
+		"tribe": "Heartful",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bf/Rhythicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"114": {
+		"name": "Wantston",
+		"food": "Ramen",
+		"rank": "E",
+		"tribe": "Heartful",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a9/Wantsicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"115": {
+		"name": "Grubsnitch",
+		"food": "Ramen",
+		"rank": "D",
+		"tribe": "Heartful",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/9/9b/Grubsnicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"116": {
+		"name": "Hungramps",
+		"food": "Rice Balls",
+		"rank": "E",
+		"tribe": "Heartful",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/9/9b/Hungricon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"117": {
+		"name": "Hungorge",
+		"food": "Rice Balls",
+		"rank": "B",
+		"tribe": "Heartful",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/0/0d/Hungoicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"118": {
+		"name": "Grainpa",
+		"food": "Rice Balls",
+		"rank": "B",
+		"tribe": "Heartful",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/b/b4/Graicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"119": {
+		"name": "Lodo",
+		"food": "Milk",
+		"rank": "D",
+		"tribe": "Heartful",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/4/48/Lodoicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"120": {
+		"name": "Chippa",
+		"food": "Milk",
+		"rank": "C",
+		"tribe": "Heartful",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/7/73/Chippicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"121": {
+		"name": "Enerfly",
+		"food": "Juice",
+		"rank": "D",
+		"tribe": "Heartful",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/0/06/Enericon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"122": {
+		"name": "Enefly",
+		"food": "Juice",
+		"rank": "D",
+		"tribe": "Heartful",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Eneicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"123": {
+		"name": "Betterfly",
+		"food": "Juice",
+		"rank": "A",
+		"tribe": "Heartful",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Bettericon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"124": {
+		"name": "Peppillon",
+		"food": "Juice",
+		"rank": "S",
+		"tribe": "Heartful",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/b/b4/Peppicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"125": {
+		"name": "Happierre",
+		"food": "Bread",
+		"rank": "C",
+		"tribe": "Heartful",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/9/96/Happieicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"126": {
+		"name": "Reversa",
+		"food": "Bread",
+		"rank": "A",
+		"tribe": "Heartful",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/7/7d/Revericon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"127": {
+		"name": "Reversette",
+		"food": "Bread",
+		"rank": "A",
+		"tribe": "Heartful",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Reversicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"128": {
+		"name": "Ol' Saint Trick",
+		"food": "Milk",
+		"rank": "B",
+		"tribe": "Heartful",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d8/Olsaicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"129": {
+		"name": "Ol' Fortune",
+		"food": "Milk",
+		"rank": "B",
+		"tribe": "Heartful",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/5/59/Olforicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"130": {
+		"name": "Rollen",
+		"food": "Candy",
+		"rank": "A",
+		"tribe": "Heartful",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1b/Rollicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"131": {
+		"name": "Dubbles",
+		"food": "Candy",
+		"rank": "A",
+		"tribe": "Heartful",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/7/7a/Dubbicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"132": {
+		"name": "Papa Bolt",
+		"food": "Meat",
+		"rank": "A",
+		"tribe": "Heartful",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/8/8c/Papbolicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"133": {
+		"name": "Uncle Infinite",
+		"food": "Meat",
+		"rank": "S",
+		"tribe": "Heartful",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/b/b9/Uncinficon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"134": {
+		"name": "Mama Aura",
+		"food": "Vegetables",
+		"rank": "S",
+		"tribe": "Heartful",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Mamauricon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"135": {
+		"name": "Auntie Heart",
+		"food": "Vegetables",
+		"rank": "S",
+		"tribe": "Heartful",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/b/b1/Aunheaicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"136": {
+		"name": "Leadoni",
+		"food": "Candy",
+		"rank": "E",
+		"tribe": "Shady",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/7/78/Leadonicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	},
+	"137": {
+		"name": "Mynimo",
+		"food": "Candy",
+		"rank": "D",
+		"tribe": "Shady",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/5/55/Mynicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"138": {
+		"name": "Ake",
+		"food": "Candy",
+		"rank": "E",
+		"tribe": "Shady",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/3/3c/Akeicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"139": {
+		"name": "Payn",
+		"food": "Candy",
+		"rank": "C",
+		"tribe": "Shady",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a1/Payicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"140": {
+		"name": "Agon",
+		"food": "Candy",
+		"rank": "B",
+		"tribe": "Shady",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2e/Agoicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"141": {
+		"name": "Negatibuzz",
+		"food": "Juice",
+		"rank": "E",
+		"tribe": "Shady",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bb/Negaticon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"142": {
+		"name": "Moskevil",
+		"food": "Juice",
+		"rank": "C",
+		"tribe": "Shady",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/b/b4/Moskicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"143": {
+		"name": "Scritchy",
+		"food": "Juice",
+		"rank": "A",
+		"tribe": "Shady",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/0/0a/Scricon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"144": {
+		"name": "Dimmy",
+		"food": "Rice Balls",
+		"rank": "E",
+		"tribe": "Shady",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/0/09/Dimmicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"145": {
+		"name": "Blandon",
+		"food": "Rice Balls",
+		"rank": "B",
+		"tribe": "Shady",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5f/Blanicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"146": {
+		"name": "Nul",
+		"food": "Rice Balls",
+		"rank": "A",
+		"tribe": "Shady",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/7/7b/Nulicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"147": {
+		"name": "Hidabat",
+		"food": "Meat",
+		"rank": "D",
+		"tribe": "Shady",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/2/20/Hidaicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"148": {
+		"name": "Abodabat",
+		"food": "Meat",
+		"rank": "A",
+		"tribe": "Shady",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/6/6e/Abodicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"149": {
+		"name": "Belfree",
+		"food": "Meat",
+		"rank": "A",
+		"tribe": "Shady",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4c/Belfricon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"150": {
+		"name": "Suspicioni",
+		"food": "Chinese Food",
+		"rank": "D",
+		"tribe": "Shady",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/0/04/Suspicion.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"151": {
+		"name": "Tantroni",
+		"food": "Chinese Food",
+		"rank": "D",
+		"tribe": "Shady",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4e/Tantricon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"152": {
+		"name": "Contrarioni",
+		"food": "Chinese Food",
+		"rank": "B",
+		"tribe": "Shady",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d6/Contraricon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"153": {
+		"name": "Tengloom",
+		"food": "Vegetables",
+		"rank": "C",
+		"tribe": "Shady",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/3/34/Tenglicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"154": {
+		"name": "Nird",
+		"food": "Vegetables",
+		"rank": "B",
+		"tribe": "Shady",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/a/af/Nirdicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"155": {
+		"name": "Negasus",
+		"food": "Vegetables",
+		"rank": "A",
+		"tribe": "Shady",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/9/95/Negaicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"156": {
+		"name": "Neighfarious",
+		"food": "Vegetables",
+		"rank": "A",
+		"tribe": "Shady",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/9/9f/Neighficon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"157": {
+		"name": "Timidevil",
+		"food": "Ramen",
+		"rank": "A",
+		"tribe": "Shady",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5d/Timidicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"158": {
+		"name": "Beelzebold",
+		"food": "Ramen",
+		"rank": "S",
+		"tribe": "Shady",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/8/89/Beelzeicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"159": {
+		"name": "Count Cavity",
+		"food": "Ramen",
+		"rank": "S",
+		"tribe": "Shady",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/7/7d/Count_cavicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"160": {
+		"name": "Greesel",
+		"food": "Meat",
+		"rank": "S",
+		"tribe": "Shady",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5d/Greesicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"161": {
+		"name": "Awevil",
+		"food": "Meat",
+		"rank": "S",
+		"tribe": "Shady",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/7/7c/Awevicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bc/Shady_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"162": {
+		"name": "Coughkoff",
+		"food": "Bread",
+		"rank": "E",
+		"tribe": "Eerie",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Coughicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"163": {
+		"name": "Hurchin",
+		"food": "Bread",
+		"rank": "D",
+		"tribe": "Eerie",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/8/8a/Hurchicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	},
+	"164": {
+		"name": "Peckpocket",
+		"food": "Hamburgers",
+		"rank": "E",
+		"tribe": "Eerie",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d5/Peckpoicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"165": {
+		"name": "Rockabelly",
+		"food": "Hamburgers",
+		"rank": "D",
+		"tribe": "Eerie",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/7/7a/Rockabicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"166": {
+		"name": "Buhu",
+		"food": "Bread",
+		"rank": "E",
+		"tribe": "Eerie",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2c/Buhuicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"167": {
+		"name": "Flumpy",
+		"food": "Bread",
+		"rank": "C",
+		"tribe": "Eerie",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Flumicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"168": {
+		"name": "Skreek",
+		"food": "Bread",
+		"rank": "A",
+		"tribe": "Eerie",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c3/Skreicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"169": {
+		"name": "Manjimutt",
+		"food": "Chinese Food",
+		"rank": "E",
+		"tribe": "Eerie",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/8/8c/Manjicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"170": {
+		"name": "Multimutt",
+		"food": "Chinese Food",
+		"rank": "B",
+		"tribe": "Eerie",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/1/18/Multimicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"171": {
+		"name": "Sir Berus",
+		"food": "Chinese Food",
+		"rank": "A",
+		"tribe": "Eerie",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/6/6e/Sirbericon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"172": {
+		"name": "Droplette",
+		"food": "Juice",
+		"rank": "E",
+		"tribe": "Eerie",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5c/Droplicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"173": {
+		"name": "Drizzle",
+		"food": "Juice",
+		"rank": "B",
+		"tribe": "Eerie",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2a/Dricon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"174": {
+		"name": "Slush",
+		"food": "Juice",
+		"rank": "E",
+		"tribe": "Eerie",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/8/89/Slusicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	},
+	"175": {
+		"name": "Alhail",
+		"food": "Juice",
+		"rank": "B",
+		"tribe": "Eerie",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Alhaicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	},
+	"176": {
+		"name": "Gush",
+		"food": "Juice",
+		"rank": "D",
+		"tribe": "Eerie",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/6/61/Gushicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"177": {
+		"name": "Chatalie",
+		"food": "Bread",
+		"rank": "D",
+		"tribe": "Eerie",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/7/75/Chatlicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"178": {
+		"name": "Nagatha",
+		"food": "Bread",
+		"rank": "C",
+		"tribe": "Eerie",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a6/Nagaicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"179": {
+		"name": "Dismarelda",
+		"food": "Bread",
+		"rank": "D",
+		"tribe": "Eerie",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c5/Dismaricon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"180": {
+		"name": "Cheeksqueek",
+		"food": "Milk",
+		"rank": "C",
+		"tribe": "Eerie",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/3/35/Ceeseeicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	},
+	"181": {
+		"name": "Cuttincheez",
+		"food": "Milk",
+		"rank": "A",
+		"tribe": "Eerie",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Cttceeicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	},
+	"182": {
+		"name": "Compunzer",
+		"food": "Chinese Food",
+		"rank": "A",
+		"tribe": "Eerie",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/9/99/Compunicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"183": {
+		"name": "Lamedian",
+		"food": "Chinese Food",
+		"rank": "A",
+		"tribe": "Eerie",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/6/61/Lamdicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"184": {
+		"name": "Grumples",
+		"food": "Milk",
+		"rank": "B",
+		"tribe": "Eerie",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/2/20/Grumpicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"185": {
+		"name": "Everfore",
+		"food": "Milk",
+		"rank": "S",
+		"tribe": "Eerie",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/7/79/Eveforicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"186": {
+		"name": "Eterna",
+		"food": "Milk",
+		"rank": "S",
+		"tribe": "Eerie",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Etericon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"187": {
+		"name": "Insomni",
+		"food": "Candy",
+		"rank": "S",
+		"tribe": "Eerie",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bb/Insoicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	},
+	"188": {
+		"name": "Sandi",
+		"food": "Candy",
+		"rank": "S",
+		"tribe": "Eerie",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Sandicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"189": {
+		"name": "Noko",
+		"food": "Hamburgers",
+		"rank": "E",
+		"tribe": "Slippery",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d9/YW1Noko.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Rank_E_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Slippery_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"190": {
+		"name": "Bloominoko",
+		"food": "Hamburgers",
+		"rank": "A",
+		"tribe": "Slippery",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/0/05/YW1Blonok.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Slippery_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"191": {
+		"name": "Pandanoko",
+		"food": "Hamburgers",
+		"rank": "A",
+		"tribe": "Slippery",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/7/74/Pannokicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Slippery_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	},
+	"192": {
+		"name": "Heheheel",
+		"food": "Meat",
+		"rank": "D",
+		"tribe": "Slippery",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a9/Heheeicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Slippery_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"193": {
+		"name": "Croonger",
+		"food": "Meat",
+		"rank": "C",
+		"tribe": "Slippery",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4b/Croonicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Slippery_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"194": {
+		"name": "Urnaconda",
+		"food": "Meat",
+		"rank": "C",
+		"tribe": "Slippery",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Urnacicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Slippery_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"195": {
+		"name": "Fishpicable",
+		"food": "Meat",
+		"rank": "D",
+		"tribe": "Slippery",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1c/Fishpicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Slippery_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"196": {
+		"name": "Rageon",
+		"food": "Meat",
+		"rank": "B",
+		"tribe": "Slippery",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/6/68/Rageicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Slippery_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"197": {
+		"name": "Tunatic",
+		"food": "Meat",
+		"rank": "A",
+		"tribe": "Slippery",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/4/46/Tunaticon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Slippery_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"198": {
+		"name": "Draggie",
+		"food": "Chinese Food",
+		"rank": "D",
+		"tribe": "Slippery",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d8/Draggicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c1/Rank_D_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Slippery_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"199": {
+		"name": "Dragon Lord",
+		"food": "Chinese Food",
+		"rank": "S",
+		"tribe": "Slippery",
+		"attribute": "Earth",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Draloricon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Slippery_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Earth_icon.PNG"
+		}
+	},
+	"200": {
+		"name": "Azure Dragon",
+		"food": "Chinese Food",
+		"rank": "S",
+		"tribe": "Slippery",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bb/Azudraicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Slippery_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"201": {
+		"name": "Daiz",
+		"food": "Candy",
+		"rank": "C",
+		"tribe": "Slippery",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/3/3c/Daicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Slippery_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"202": {
+		"name": "Confuze",
+		"food": "Candy",
+		"rank": "B",
+		"tribe": "Slippery",
+		"attribute": "Drain",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/b/b5/Couzicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Slippery_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Drain_icon.PNG"
+		}
+	},
+	"203": {
+		"name": "Chummer",
+		"food": "Vegetables",
+		"rank": "C",
+		"tribe": "Slippery",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/1/13/Chumicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Slippery_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"204": {
+		"name": "Shrook",
+		"food": "Vegetables",
+		"rank": "B",
+		"tribe": "Slippery",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/8/82/Shroicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Slippery_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"205": {
+		"name": "Spenp",
+		"food": "Bread",
+		"rank": "C",
+		"tribe": "Slippery",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/7/78/Spenpicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Slippery_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"206": {
+		"name": "Almi",
+		"food": "Bread",
+		"rank": "B",
+		"tribe": "Slippery",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/6/69/Almicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Slippery_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"207": {
+		"name": "Babblong",
+		"food": "Candy",
+		"rank": "C",
+		"tribe": "Slippery",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/3/3a/Babblicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/47/Rank_C_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Slippery_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"208": {
+		"name": "Bananose",
+		"food": "Candy",
+		"rank": "A",
+		"tribe": "Slippery",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/2/26/Banoicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Slippery_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"209": {
+		"name": "Copperled",
+		"food": "Seafood",
+		"rank": "B",
+		"tribe": "Slippery",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/1/15/Coperlicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Slippery_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"210": {
+		"name": "Cynake",
+		"food": "Seafood",
+		"rank": "B",
+		"tribe": "Slippery",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/d/dc/Cynakicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/Rank_B_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Slippery_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"211": {
+		"name": "Slitheref",
+		"food": "Seafood",
+		"rank": "A",
+		"tribe": "Slippery",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/8/82/Slithicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Slippery_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"212": {
+		"name": "Venoct",
+		"food": "Seafood",
+		"rank": "S",
+		"tribe": "Slippery",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/c/cd/Venocticon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Slippery_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"213": {
+		"name": "Shad. Venoct",
+		"food": "Seafood",
+		"rank": "S",
+		"tribe": "Slippery",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bb/Shavenicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/Slippery_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"214": {
+		"name": "Shogunyan",
+		"food": "Seafood",
+		"rank": "S",
+		"tribe": "Brave",
+		"attribute": "Wind",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/7/75/Shoguicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Brave_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ad/Wind_icon.PNG"
+		}
+	},
+	"215": {
+		"name": "Komashura",
+		"food": "Milk",
+		"rank": "S",
+		"tribe": "Mysterious",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/2/20/Shuraicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Mysterious_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"216": {
+		"name": "Dandoodle",
+		"food": "Chinese Food",
+		"rank": "S",
+		"tribe": "Eerie",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/e/ec/Dandicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Eerie_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"217": {
+		"name": "Elder Bloom",
+		"food": "Rice Balls",
+		"rank": "S",
+		"tribe": "Heartful",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/5/55/Eldblooicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5e/Heartful_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"218": {
+		"name": "Gilgaros",
+		"food": "Meat",
+		"rank": "S",
+		"tribe": "Tough",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/0/07/Gilgaricon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fc/Rank_S_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d0/Tough_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"219": {
+		"name": "Sapphinyan",
+		"food": "Seafood",
+		"rank": "A",
+		"tribe": "Charming",
+		"attribute": "Water",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c2/Sapphicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Water_icon.PNG"
+		}
+	},
+	"220": {
+		"name": "Emenyan",
+		"food": "Seafood",
+		"rank": "A",
+		"tribe": "Charming",
+		"attribute": "Restoration",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/e/ec/Emeicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a0/Restoration_icon.PNG"
+		}
+	},
+	"221": {
+		"name": "Rubinyan",
+		"food": "Seafood",
+		"rank": "A",
+		"tribe": "Charming",
+		"attribute": "Fire",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f7/Rubicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/Fire_icon.PNG"
+		}
+	},
+	"222": {
+		"name": "Topanyan",
+		"food": "Seafood",
+		"rank": "A",
+		"tribe": "Charming",
+		"attribute": "Lightning",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ab/Topaicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Lightning_icon.PNG"
+		}
+	},
+	"223": {
+		"name": "Dianyan",
+		"food": "Seafood",
+		"rank": "A",
+		"tribe": "Charming",
+		"attribute": "Ice",
+		"links": {
+			"icon": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ab/Diaicon.png",
+			"rank": "https://static.wikia.nocookie.net/yokaiwatch/images/4/44/Rank_A_icon.PNG",
+			"tribe": "https://static.wikia.nocookie.net/yokaiwatch/images/3/31/Charming_Tribe.png",
+			"attribute": "https://static.wikia.nocookie.net/yokaiwatch/images/0/08/Ice_icon.PNG"
+		}
+	}
+}
