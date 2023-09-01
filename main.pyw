@@ -1,4 +1,4 @@
-import grequests, requests
+import grequests
 from sys import exit
 from json import loads
 from PyQt6.QtCore import Qt
@@ -51,7 +51,7 @@ class App:
 		self.layout.addWidget(self.entry, 1, 0, 1, 2)
 		self.active.append(self.entry)
 
-		button = QPushButton("Open")
+		button = QPushButton("Search")
 		button.clicked.connect(self.dataScreen)
 		button.setStyleSheet("border: 1 solid #bbb; color: #ccc; background-color: #444")
 		self.layout.addWidget(button, 2, 0)
@@ -83,10 +83,10 @@ class App:
 		self.layout.addWidget(food_label, 0, 2, 1, 2)
 		self.active.append(food_label)
 
-		rs = (grequests.get(yokai["links"][key]) for i, key in enumerate(yokai["links"]))
+		rs = (grequests.get(yokai["links"][key]) for _, key in enumerate(yokai["links"]))
 		images = grequests.map(rs)
 
-		for i, key in enumerate(yokai["links"]):
+		for i, _ in enumerate(yokai["links"]):
 			image = QImage()
 			image.loadFromData(images[i].content)
 
