@@ -1,100 +1,117 @@
-import os #, requests, json
-# from bs4 import BeautifulSoup as bs
+from sys import exit
+from requests import get
+from json import loads
+from PyQt6.QtCore import Qt
+from PyQt6.QtWidgets import QApplication, QLabel, QWidget, QPushButton, QLineEdit, QGridLayout
+from PyQt6.QtGui import QImage,	QPixmap, QIcon
 
-os.system("cls")
+class App:
+	def __init__(self) -> None:
+		self.active: list[QWidget] = []
+		self.width, self.height = 250, 122
 
-def main():
-	pass
-	# with open("data.json", "r", encoding="UTF-8") as f:
-	# 	data = json.loads(f.read())
-	
-	# used = []
+		with open("data.json", "r", encoding="UTF-8") as f:
+			self.data = loads(f.read())
 
-	# for i in range(1, len(data)):
-	# 	item = data[str(i)]["links"]["attribute"]
-	# 	if item not in used:
-	# 		print(item[57:-9])
-	# 		used.append(item)
+		self.app = QApplication([])
+		_, _, self.screen_width, self.screen_height = QApplication.primaryScreen().geometry().getRect()
 
-	### WRITE DATA.JSON
-	# foods, links, names = [], [], []
-	# data2 = {}
-
-	# with open("txts/foods.txt", "r", encoding="UTF-8") as f:
-	# 	foods = f.read().splitlines()
-
-	# with open("txts/links.txt", "r", encoding="UTF-8") as f:
-	# 	links = f.read().splitlines()
-
-	# with open("txts/names.txt", "r", encoding="UTF-8") as f:
-	# 	names = f.read().splitlines()
-	
-	# with open("data.json", "r", encoding="UTF-8") as f:
-	# 	data = json.loads(f.read())
-	
-	# for i in range(len(foods)):
-	# 	data2[str(i + 1)] = {
-	# 			"name": names[i],
-	# 			"food": foods[i],
-	# 			"rank": data[str(i + 1)]["links"]["rank"][62:-9],
-	# 			"tribe": data[str(i + 1)]["links"]["tribe"][57:-10],
-	# 			"attribute": data[str(i + 1)]["links"]["attribute"][57:-9],
-	# 		}
+		self.window = QWidget()
+		self.window.setWindowTitle("Medallium")
+		self.window.setStyleSheet("background-color: #333")
+		self.window.setWindowIcon(QIcon("imgs/watch.png"))
+		self.window.setGeometry(
+			int(self.screen_width / 2 - (250 / 2)),
+			int(self.screen_height / 2 - (122 / 2)),
+			self.width, self.height
+		)
 		
-	# for i in range(len(links)):
-	# 	if i == 223: break
-	# 	i = i * 4
-	# 	data2[f"{(int(i / 4)) + 1}"]["links"] = {
-	# 		"icon": links[i],
-	# 		"rank": links[i + 1],
-	# 		"tribe": links[i + 2],
-	# 		"attribute": links[i + 3]
-	# 	}
-		
-	# data2 = str(data)
+		self.window.setFixedSize(250, 122)
 
-	# data2 = data.replace("'", '"')
+		self.layout = QGridLayout()
+		self.window.setLayout(self.layout)
+		self.window.show()
+		self.searchScreen()
+		exit(self.app.exec())
 
-	# with open("data2.json", "w", encoding="UTF-8") as f:
-	# 	f.write(json.dumps(data2))
+	def clearScreen(self) -> None:
+		for widget in self.active:
+			widget.setParent(None)
 
-	# url = "https://yokaiwatch.fandom.com/wiki/List_of_Yo-kai_by_Medallium_Number_(Yo-kai_Watch)"
+	def searchScreen(self) -> None:
+		self.clearScreen()
 
-	# soup = bs(requests.get(url).text, 'html.parser')
+		label = QLabel("Insert yokai id to search")
+		label.setStyleSheet("font-size: 21px; color: #ccc")
+		self.layout.addWidget(label, 0, 0, 1, 2, Qt.AlignmentFlag.AlignCenter)
+		self.active.append(label)
 
-	### NAMES/FOODS
+		self.entry = QLineEdit()
+		self.entry.setStyleSheet("border: 1 solid #bbb; color: #ccc")
+		self.layout.addWidget(self.entry, 1, 0, 1, 2)
+		self.active.append(self.entry)
 
-	# foods = []
+		button = QPushButton("Open")
+		button.clicked.connect(self.dataScreen)
+		button.setStyleSheet("border: 1 solid #bbb; color: #ccc; background-color: #444")
+		self.layout.addWidget(button, 2, 0)
+		self.active.append(button)
 
-	# tables = soup.find_all("table", class_="main roundy")
+		self.quitButton(2, 1, 1, 1)
 
-	# for table in tables:
-	# 	trs = table.find_all("tr")
-	# 	trs.pop(0)
-	# 	for tr in trs:
-	# 		foods.append(tr.find_all("td")[2].text)
+	def dataScreen(self) -> None:
+		self.clearScreen()
 
-	# with open("names.txt", "w") as f:
-	# 	for food in foods:
-	# 		f.write(food)
+		try:
+			id = int(self.entry.text())
+			if id < 0 or id > 223:
+				self.errorScreen()
+				return
+			else:
+				yokai = self.data[self.entry.text()]
+		except:
+			self.errorScreen()
+			return
 
-	### USED TO GET LINKS
-	# tables = soup.find_all("table", class_="main roundy")
+		name_label = QLabel(f"Name: {yokai['name']}")
+		name_label.setStyleSheet("border: 1 solid #bbb; color: #ccc")
+		self.layout.addWidget(name_label, 0, 0, 1, 2)
+		self.active.append(name_label)
 
-	# with open("a.html", "r", encoding="UTF-8") as f:
-	# 	soup = bs(f.read(), "html.parser")
+		food_label = QLabel(f"Fav. Food: {yokai['food']}")
+		food_label.setStyleSheet("border: 1 solid #bbb; color: #ccc")
+		self.layout.addWidget(food_label, 0, 2, 1, 2)
+		self.active.append(food_label)
 
-	# href = []
+		for i, key in enumerate(yokai["links"]):
+			image = QImage()
+			image.loadFromData(get(yokai["links"][key]).content)
 
-	# for img in soup.find_all("img"):
-	# 	if img.get("data-src") != None:
-	# 		href.append(img.get("data-src"))
-	# 	else:
-	# 		href.append(img.get("src"))
+			image_label = QLabel()
+			image_label.setStyleSheet("border: 1px solid #bbb")
+			image_label.setPixmap(QPixmap(image))
+			self.layout.addWidget(image_label, 1, i)
+			self.active.append(image_label)
 
-	# with open("links.txt", "w", encoding="UTF-8") as f:
-	# 	for link in href:
-	# 		f.write(f"{str(link)}\n")
+		back_button = QPushButton("Search")
+		back_button.setStyleSheet("border: 1 solid #bbb; color: #ccc")
+		back_button.clicked.connect(self.searchScreen)
+		self.layout.addWidget(back_button, 2, 0, 1, 2)
+		self.active.append(back_button)
+
+		self.quitButton(2, 2, 1, 2)
+
+	def errorScreen(self) -> None:
+		self.searchScreen()
+
+	def quitButton(self, row, col, rowspan, colspan) -> None:
+		quit_button = QPushButton("Quit")
+		quit_button.setStyleSheet("border: 1 solid #bbb; color: #ccc")
+		quit_button.clicked.connect(QApplication.instance().quit)
+		self.layout.addWidget(quit_button, row, col, rowspan, colspan)
+		self.active.append(quit_button)
 
 if __name__ == "__main__":
-	main()
+	import os
+	os.system("cls")
+	app = App()
