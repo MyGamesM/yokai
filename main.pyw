@@ -1,5 +1,5 @@
+import grequests, requests
 from sys import exit
-from requests import get
 from json import loads
 from PyQt6.QtCore import Qt
 from PyQt6.QtWidgets import QApplication, QLabel, QWidget, QPushButton, QLineEdit, QGridLayout
@@ -83,9 +83,12 @@ class App:
 		self.layout.addWidget(food_label, 0, 2, 1, 2)
 		self.active.append(food_label)
 
+		rs = (grequests.get(yokai["links"][key]) for i, key in enumerate(yokai["links"]))
+		images = grequests.map(rs)
+
 		for i, key in enumerate(yokai["links"]):
 			image = QImage()
-			image.loadFromData(get(yokai["links"][key]).content)
+			image.loadFromData(images[i].content)
 
 			image_label = QLabel()
 			image_label.setStyleSheet("border: 1px solid #bbb")
